@@ -52,4 +52,4 @@ Add your own domain name and have it point to the running services (try adding a
 
 ### Deployment URL
 
-[EBS URL][http://image-filter-yinkaenoch-dev-dev.us-east-1.elasticbeanstalk.com]
+[EBS URL](http://image-filter-yinkaenoch-dev-dev.us-east-1.elasticbeanstalk.com)
